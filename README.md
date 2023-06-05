@@ -9,7 +9,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/galbraithmedia1/SkyCast/assets/59584919/cdeff7ad-da76-4cef-9b9e-b4ee10223458" width=200 height=400></td>
+    <td><img src="https://github.com/galbraithmedia1/SkyCast/assets/59584919/f76f98cd-0a6c-48ed-a9b2-2a131359149c" width=200 height=400></td>
     <td><img src="https://github.com/galbraithmedia1/SkyCast/assets/59584919/2c04452d-2672-4045-bb89-2fab3b60b972" width=200 height=400></td>
     <td><img src="https://github.com/galbraithmedia1/SkyCast/assets/59584919/2e32ad37-7298-4dde-b204-e8dc3c3bd11b" width=200 height=400></td>
     <td><img src="https://github.com/galbraithmedia1/SkyCast/assets/59584919/d342ca77-f5eb-41fc-8923-1cdc3c082011" width=200 height=400></td>
